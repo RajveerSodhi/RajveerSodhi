@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajveerSodhi
 - 👀 I’m interested in tech, music, movies, and programming!
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, PHP, and Python. A second year student at University of British Columbia
+- 🌱 I’m currently learning Java, HTML, CSS, MIPS Assembly, SQL, Swift, and Python. A third-year student at University of British Columbia
 - 📫 You can reach me at rajveersodhi03@gmail.com
 
 <!---
