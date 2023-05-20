@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @RajveerSodhi
 - 👀 I’m interested in tech, music, movies, and programming!
-- 🌱 I’m currently learning Java, HTML, CSS, MIPS Assembly, SQL, Swift, and Python. A third-year student at University of British Columbia
+- 🏫 A third-year student at University of British Columbia
+- 🌱 I’m currently learning Java, HTML, CSS, MIPS Assembly, MySQL, Swift, R, and Python
 - 📫 You can reach me at rajveersodhi03@gmail.com
+- 🔎 Find me on [LinkedIn](https://www.linkedin.com/in/RajveerSodhi/)!
 
 <!---
 RajveerSodhi/RajveerSodhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
