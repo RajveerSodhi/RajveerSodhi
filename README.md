@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajveerSodhi
 - 👀 I’m interested in tech, music, movies, and programming!
-- 🏫 A third-year student at University of British Columbia
+- 🏫 A third-year Honours student at the University of British Columbia (Computer Science Honours, Data Science Minor)
 - 🌱 I’m currently learning Java, HTML, CSS, MIPS Assembly, MySQL, Swift, R, and Python
 - 🐶 Meet my dog Ash in my profile picture! :)
 <!---
