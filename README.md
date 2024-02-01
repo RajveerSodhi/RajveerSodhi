@@ -3,7 +3,7 @@
 - 🏫 A third-year Honours student at the University of British Columbia (Computer Science Honours, Data Science Minor)
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript, MIPS Assembly, MySQL, Swift, R, C#, and Python
 
-[![Rajveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajveersodhi)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajveersodhi)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=transparent&hiderank=true)
 
 <!---
 RajveerSodhi/RajveerSodhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
