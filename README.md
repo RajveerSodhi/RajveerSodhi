@@ -14,7 +14,7 @@
 - 🔬 I'm conducting academic research in the field of Human-Computer Interaction
 - 👀 I love the latest technology, music, and movies!
 - 🌱 I'm currently learning HTML, CSS, JavaScript, and Swift!
-- :mailbox: Reach me at rajveersodhi03@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rajveersodhi)
+- :mailbox: Reach me at rajveersodhi03@gmail.com or [LinkedIn](www.linkedin.com/in/rajveersodhi)
 
 ---
 
