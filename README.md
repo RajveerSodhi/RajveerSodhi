@@ -9,35 +9,47 @@
 
 ### :man_technologist: About Me :
 - 🏫 I'm a third-year Honours student at the University of British Columbia (Computer Science Honours, Data Science Minor)
-- 💼 I work as a Teaching Assistant and Supplementary Leader at UBC, as well as the Website Administrator at Niteo Africa!
+- 💼 I work as a Teaching Assistant and Supplementary Leader at UBC and as the Website Administrator at Niteo Africa!
 - 🎬 I'm the President of the Film Society at UBC ([Find us on Instagram](https://www.instagram.com/suo.filmsociety?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 - 🔬 I'm conducting academic research in the field of Human-Computer Interaction
 - 👀 I love the latest technology, music, and movies!
-- 🌱 I'm currently learning HTML, CSS, JavaScript, and Swift!
-- :mailbox: Reach me at rajveersodhi03@gmail.com or [LinkedIn](www.linkedin.com/in/rajveersodhi)
+
+---
+
+### :mailbox_with_mail: Reach me at:
+
+<div align = "center">
+  <a href="mailto:rajveersodhi03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="www.linkedin.com/in/rajveersodhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
+<div  align="center">
+  <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL"/>
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" title="Android Studio" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" title="R" alt="R"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#" alt="C#"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajveersodhi&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=rajveersodhi&theme=dark&background=000000" alt = "Rajveer's GitHub Streak">
+  <img alt = "Rajveer's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersodhi&layout=compact&theme=vision-friendly-dark">
+</div>
 
+<!---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajveersodhi&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersodhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <!---
 RajveerSodhi/RajveerSodhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
