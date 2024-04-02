@@ -8,11 +8,14 @@
 </div>
 
 ### :man_technologist: About Me :
-- 🏫 I'm a third-year Honours student at the University of British Columbia (Computer Science Honours, Data Science Minor)
+- 🏫 I'm a third-year student at the University of British Columbia (Computer Science Honours, Data Science Minor)
 - 💼 I work as a Teaching Assistant and Supplementary Leader at UBC and as the Website Administrator at Niteo Africa!
 - 🎬 I'm the President of the Film Society at UBC ([Find us on Instagram](https://www.instagram.com/suo.filmsociety?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 - 🔬 I'm conducting academic research in the field of Human-Computer Interaction
-- 👀 I love the latest technology, music, and movies!
+- 👀 I love the latest technology, cars, music, and movies!
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1dv1aTe0DMzugAI-NRcVj5o_OPbjoIIQn/view?usp=sharing)
+
+_[Last Updated April 1st, 2024]_
 
 ---
 
