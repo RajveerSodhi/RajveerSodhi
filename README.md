@@ -13,9 +13,9 @@
 - 🎬 I'm the President of the Film Society at UBC ([Find us on Instagram](https://www.instagram.com/suo.filmsociety?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 - 🔬 I'm conducting academic research in the field of Human-Computer Interaction
 - 👀 I love the latest technology, cars, music, and movies!
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1dv1aTe0DMzugAI-NRcVj5o_OPbjoIIQn/view?usp=sharing)
+- 📄 Check out my resume [here](https://github.com/RajveerSodhi/RajveerSodhi/blob/main/Resume.pdf)
 
-_[Last Updated April 1st, 2024]_
+_[Last Updated April 20th, 2024]_
 
 ---
 
@@ -24,6 +24,7 @@ _[Last Updated April 1st, 2024]_
 <div align = "center">
   <a href="mailto:rajveersodhi03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="www.linkedin.com/in/rajveersodhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://rajveersodhi.com"><img src="https://img.shields.io/badge/Website-DC2743?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </div>
 
 ---
@@ -48,13 +49,3 @@ _[Last Updated April 1st, 2024]_
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=rajveersodhi&theme=dark&background=000000" alt = "Rajveer's GitHub Streak">
   <img alt = "Rajveer's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersodhi&layout=compact&theme=vision-friendly-dark">
 </div>
-
-<!---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajveersodhi&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersodhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
---->
-
-<!---
-RajveerSodhi/RajveerSodhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
