@@ -13,6 +13,7 @@
 - 🎬 I'm the President of the Film Society at UBC ([Find us on Instagram](https://www.instagram.com/suo.filmsociety?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 - 🔬 I'm conducting academic research in the field of Human-Computer Interaction
 - 👀 I love the latest technology, cars, music, and movies!
+- 🧑‍💻 Stop by [my website](https://rajveersodhi.com)
 - 📄 Check out my resume [here](https://github.com/RajveerSodhi/RajveerSodhi/blob/main/Resume.pdf)
 
 _[Last Updated July 15, 2024]_
