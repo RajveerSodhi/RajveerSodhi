@@ -8,7 +8,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 💼 I work as a Data Analyst Intern at Data POEM as the Website Administrator at Niteo Africa!
+- 💼 I work as a Data Analyst Intern at Data POEM and as the Website Administrator at Niteo Africa!
 - 🏫 I'm a final-year student at the University of British Columbia (Computer Science Honours, Data Science Minor)
 - 🎬 I'm the President of the Film Society at UBC ([Find us on Instagram](https://www.instagram.com/suo.filmsociety?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 - 🔬 I'm conducting academic research in the field of Human-Computer Interaction
