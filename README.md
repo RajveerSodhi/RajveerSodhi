@@ -8,15 +8,15 @@
 </div>
 
 ### :man_technologist: About Me :
-- 💼 I have worked as a Data Analyst Intern at Data POEM, Supplemental Learning Leader at UBCO, and as the Website Administrator at Niteo Africa!
-- 🏫 I'm a final-year student at the University of British Columbia (Computer Science Honours)
-- 🎬 I'm the President of the Film Society at UBCO ([Find us on Instagram](https://www.instagram.com/suo.filmsociety?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)) and Content Creator for the Parindey Bollywood Dance Club
-- 🔬 I have conducted academic research in the field of Human-Computer Interaction.
+- 💼 I have worked as a Data Analyst Intern at Data POEM, Supplemental Learning Leader at UBCO, and Website Administrator at Niteo Africa!
+- 🏫 I'm a first-year ScM Computer Science student at Brown University. I have a BSc Computer Science Honours degree from the University of British Columbia.
+- 🎬 I was the President of the Film Society at UBCO ([Find us on Instagram](https://www.instagram.com/suo.filmsociety)) and Content Creator for the [Parindey Dance Club](https://www.instagram.com/parindeydancesuo)
+- 🔬 I am interested in conducting  research in Human-Computer Interaction (1 publication, 2 in progress).
 - 👀 I love the latest technology, cars, music, and movies!
 - 🧑‍💻 Stop by [my website](https://rajveersodhi.com)
 - 📄 Check out my resume [here](https://github.com/RajveerSodhi/RajveerSodhi/blob/main/Resume.pdf)
 
-_[Last Updated April 16, 2025]_
+_[Last Updated September 6, 2025]_
 
 ---
 
