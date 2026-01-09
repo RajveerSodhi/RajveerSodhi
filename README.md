@@ -16,13 +16,4 @@
 - 🧑‍💻 Stop by [my website](https://rajveersodhi.com)
 - 📄 Check out my resume [here](https://github.com/RajveerSodhi/RajveerSodhi/blob/main/Resume.pdf)
 
-_[Last Updated September 6, 2025]_
-
----
-
-### :fire: My Stats :
-
-<div align="center">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=rajveersodhi&theme=dark&background=000000" alt = "Rajveer's GitHub Streak">
-  <img alt = "Rajveer's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersodhi&layout=compact&theme=vision-friendly-dark">
-</div>
+_[Last Updated January 9, 2026]_
